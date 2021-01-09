@@ -1,0 +1,156 @@
+
+
+nav li{
+    list-style: none;
+    float: left;
+    padding-left: 30px;
+    
+}
+ul>li>a{
+    text-decoration: none;
+    font-size: 28px;
+    color: navy;
+}
+.nav{
+    
+    position: absolute;
+    top: 20px;
+    right: 100px;
+}
+.hello{
+    font-family: 'Acme', sans-serif;
+    color: navy;
+    font-weight: 700;
+    font-size: 70px;
+    
+}
+.name{font-family: 'Acme', sans-serif;
+    color: orangered;
+    font-weight: 700;
+    font-size: 45px;
+    margin-top: -63px;
+    
+    
+}
+.hireme{
+    text-decoration: none;
+    padding: 10px 20px;
+    background-image: linear-gradient(30deg,red,yellow);
+    border-radius: 7px;
+    margin-top: 300px;
+}
+.prg{
+    margin-bottom: 60px;
+    font-size: 30px;
+}
+#hire{
+    height: 200px;
+    margin-top: 250px;
+    margin-left: 50px;
+    width: 40%;
+}
+.profile1 img{
+    width: 450px;
+    height: 600px;
+    position: absolute;
+    right: 80px;
+    top: 50px; 
+}
+
+.profile2 img{
+    width: 450px;
+    height: 600px;
+    position: absolute;
+    left: 80px;
+    top: 650px; 
+}
+.intro2{
+    
+    width: 40%;
+    position: absolute;
+    top: 800px;
+    right: 100px;;
+}
+.about{
+    font-family: 'Acme', sans-serif;
+    color: navy;
+    font-weight: 700;
+    font-size: 40px;
+    margin-bottom: 10px;
+
+}
+.hireme2{
+    text-decoration: none;
+    padding: 10px 20px;
+    background-image: linear-gradient(30deg,red,yellow);
+    border-radius: 7px;
+    margin-top: 300px;
+}
+.prg2{
+    margin-bottom: 60px;
+    font-size: 25px;
+}
+.work{
+    background-color: rgb(245, 245, 245);
+    height: 650px;
+    position: relative;
+    top: 860px;
+}
+.latest{
+    font-family: 'Acme', sans-serif;
+    text-align: center;
+    padding-top: 120px;
+    font-weight: bold;
+    font-size: 30px;
+}
+h1 span{
+    color: rgb(206, 13, 13);
+}
+.images{
+    display: flexbox;
+    margin: 100px 200px;
+}
+.simg{
+    background-color: white;
+    width: 30%;
+    float: left;
+    border-radius: 10px;
+    padding-left: 15px;
+    margin-left: 1.5%;
+}
+.simg2{
+    background-color: white;
+    width: 30%;
+    float: left;
+    border-radius: 10px;
+    padding-left: 15px;
+    margin-left: 1.5%;
+}
+.simg3{
+    background-color: white;
+    width: 30%;
+    float: left;
+    border-radius: 10px;
+    padding-left: 15px;
+    margin-left: 1.5%;
+}
+.simg img{
+    width: 100%;
+    padding:10px;
+}
+.simg2 img{
+    width: 100%;
+    padding:0px;
+}
+.simg3 img{
+    width: 100%;
+    padding:0px;
+}
+.images h1{
+    font-family: 'Acme', sans-serif;
+    color: navy;
+    font-weight: 700;
+    font-size: 20px;
+
+}
+
